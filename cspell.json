@@ -11,6 +11,8 @@
         "content/**/*.md"
     ],
     "words": [
+        "1W",
+        "19th",
         "AREDN",
         "boda",
         "cjdns",
@@ -35,6 +37,7 @@
         "MC",
         "meshcore",
         "meshtastic",
+        "Mkt",
         "mosquitto",
         "MT",
         "Nebra",
@@ -51,6 +54,7 @@
         "RSSI",
         "Seeed",
         "SUSQ",
+        "SVMI",
         "tomesh",
         "ubiquiti",
         "VAL",
